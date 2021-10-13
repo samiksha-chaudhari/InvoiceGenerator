@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Invoice_Generator
 {
-    class ISummary
+    public class ISummary
     {
         //Variables
         private int numberOfRides;

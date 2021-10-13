@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Invoice_Generator
 {
-    class InvoiceGenerator
+    public class InvoiceGenerator
     {
         //constants
         readonly RideType rideType;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Invoice_Generator
 {
-    class Ride
+    public class Ride
     // Ride Class To Set Data For Particular Ride
     {
         //Variables.

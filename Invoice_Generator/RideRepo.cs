@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Invoice_Generator
 {
-    class RideRepo
+    public class RideRepo
     {
         //Dictionary to store UserId and Rides int list
         readonly Dictionary<string, List<Ride>> userRides = null;
